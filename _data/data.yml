@@ -82,7 +82,6 @@ education:
         university: National Centre for Scientific Research "Demokritos" in collaboration with University of Peloponnese.
         time: 2018 - 2020
         details: |
-        # bla bla
             - Lessons: Data Management, Machine Learning, Data Programming, Large scale statistical methods,
               Natural Language Analytics, Data Visualization, Big Data Management, Big Data Mining, Multi Modal
               Information Processing & Analysis, Applied Data Science, Deep Learning, B.D. Security, Privacy and Trust
@@ -92,7 +91,6 @@ education:
         university: University of Piraeus
         time: 2003 - 2007
         details: |
-        # bla bla 
             - Orientation: Network and Computing Systems
             - Undergraduate Thesis: Application of Game Theory in Manageme nt and Business Strategy, 
               Supervisor: Fountas Evangelos
