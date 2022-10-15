@@ -45,13 +45,28 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Bicycle 
           link:
 
-        - item: Snowboarding
+        - item: Running
           link:
 
-        - item: Cooking
+        - item: Gym
+          link:
+          
+        - item: Basketball
+          link:
+          
+        - item: Music
+          link:
+          
+        - item: Movies
+          link:
+          
+        - item: Photography
+          link:
+          
+        - item: Escape Rooms
           link:
 
 career-profile:
@@ -78,15 +93,11 @@ education:
         university: University of Piraeus
         time: 2003 - 2007
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - School of Information and Communication Technologies.
-              Grade of admission to the University: 17.6 (out of 20).
-              Orientation: Network and Computing Systems.
-            - Bullet point
+          Orientation:
+            - Network and Computing Systems.
+          Undergraduate Thesis:
+            - Application of Game Theory in Manageme nt and Business Strategy
+              Supervisor: Fountas Evangelos
 experiences:
     title: Experiences
     info:
