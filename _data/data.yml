@@ -74,6 +74,37 @@ career-profile:
     summary: |
       Strong information technology professional with a demonstrated history of working in the information technology and services industry.
       Always excited for new technologies and personal development.
+
+experiences:
+    title: Work experience
+    info:
+      - role: DevOps Engineer
+        time: Jan 2022 - Present
+        company: Cosmos Business Systems
+        details: |
+            - Server administration, configuration and troubleshooting on Linux based systems , involution in
+            designing of Linux server environments for developers and testers, supporting and documenting procedures
+            - Software deployment and maintain of scalable .NET applications using Docker and container 
+            orchestration Kubernetes, either on premise or on Cloud platforms (Azure)
+            - Install, configure and maintain Java applications , using Apache, Nginx web services
+            - Implementation and maintain of Database Servers, backup and recovery PostgreSQL, MySQL, MariaDB, MSSQL)
+      - role: IT Manager
+        time: Feb 2021 - Dec 2021
+        company: UCert
+        details: |
+            - Exam preparation guidance to examination centers (software setup parameterization, web 
+            platform usage, remote control, technical issues, etc.), Regular routine check,
+            - Implementation and monitoring of the Certification process, Technical Support of Certification
+            Exams resolving po ssible problems, before, after or during the exams,
+            - Handling company’s web application organizing examination procedure, Servers, Databases and
+            Backups management, Exporting reports and useful conclusions through Queries regarding the IT
+            Department, but al so the ISO Department,
+            - Responsible for the supply and installation of Hardware and Software of the company, as well as
+            maintenance and repair, Management of network infrastructure (internet, server, switches) and telephony,
+            - Monitoring and support of multip le educational platforms,
+            - Budget and expenditure management of IT Department,
+            - Evaluation and training of new staff
+
 education:
     title: Education
     info:
@@ -93,46 +124,7 @@ education:
             - Orientation: Network and Computing Systems
             - Undergraduate Thesis: Application of Game Theory in Manageme nt and Business Strategy, 
               Supervisor: Fountas Evangelos
-experiences:
-    title: Work experience
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 #projects:
 #    title: Projects
 #    intro: >
