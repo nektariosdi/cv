@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: nektariosdi@gmail.com
     phone: +30 698 2903 138
-    timezone: Europe/Greece Timezone
+    #timezone: Europe/Greece Timezone
     #citizenship:
-    website: www.e-texnikos.com #do not add http://
+    #website: www.e-texnikos.com #do not add http://
     linkedin: nektariosdi
     #xing: alandoe
     github: nektariosdi
@@ -29,7 +29,6 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
     skype: nektarios_dimitrakopoulos
     pdf: https://nektariosdi.github.io/cv/print
-    Last Update: 2022-10-16
 
     languages:
       title: Languages
@@ -207,3 +206,4 @@ experiences:
 
 footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+Last Ipdate: 16 Oct 2022
