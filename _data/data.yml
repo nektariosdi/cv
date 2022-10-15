@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -57,26 +57,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Strong information technology professional with a demonstrated history of working in the information technology and services industry.
+      Always excited for new technologies and personal development.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Data Science
+        university: National Centre for Scientific Research " Demokritos"
+        time: 2018 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Lessons: Data Management, Machine Learning, Data Programming, Large scale statistical methods,
+          Natural Language Analytics, Data Visualization, Big Data Management, Big Data Mining, Multi Modal
+          Information Processing & Analysis, Applied Data Science, Deep Learning, B.D. Security, Privacy & Trust
+            - Lessons: Data Management, Machine Learning, Data Programming, Large scale statistical methods,
+          Natural Language Analytics, Data Visualization, Big Data Management, Big Data Mining, Multi Modal
+          Information Processing & Analysis, Applied Data Science, Deep Learning, B.D. Security, Privacy & Trust
+            - Postgraduate Thesis: «Smart cities_Issues & Challenges towards a human centric paradigm»,
+          Supervisor: Nousias Alexandros
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
