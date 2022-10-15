@@ -152,27 +152,27 @@ education:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
-#skills:
-#    title: Skills &amp; Proficiency
+skills:
+    title: Skills &amp; Proficiency
 
-#    toolset:
-#      - name: Python & Django
-#        level: 98%
+    toolset:
+      - name: Microsoft Suites
+        level: 98%
 
-#      - name: Javascript & jQuery
-#        level: 98%
+      - name: Linux
+        level: 95%
 
-#      - name: Angular
-#        level: 98%
+      - name: Hardware & Software
+        level: 95%
 
-#      - name: HTML5 & CSS
-#        level: 95%
+      - name: SQL
+        level: 90%
 
-#      - name: Ruby on Rails
-#        level: 85%
+      - name: Adobe Illustrator
+        level: 85%
 
-#      - name: Sketch & Photoshop
-#        level: 60%
+      - name: Adobe Photoshop
+        level: 60%
 
 footer: >
-    <i>Last Update: 16 Oct 2022</i>
+    <i>Last update: 16 Oct 2022</i>
