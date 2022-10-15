@@ -66,14 +66,14 @@ education:
         university: National Centre for Scientific Research " Demokritos"
         time: 2018 - 2020
         details: |
-          Lessons: Data Management, Machine Learning, Data Programming, Large scale statistical methods,
+#          Bla bla bla
+          Lessons:
+            - Data Management, Machine Learning, Data Programming, Large scale statistical methods,
           Natural Language Analytics, Data Visualization, Big Data Management, Big Data Mining, Multi Modal
           Information Processing & Analysis, Applied Data Science, Deep Learning, B.D. Security, Privacy & Trust
-#            - Lessons: Data Management, Machine Learning, Data Programming, Large scale statistical methods,
-#          Natural Language Analytics, Data Visualization, Big Data Management, Big Data Mining, Multi Modal
-#          Information Processing & Analysis, Applied Data Science, Deep Learning, B.D. Security, Privacy & Trust
-#            - Postgraduate Thesis: «Smart cities_Issues & Challenges towards a human centric paradigm»,
-#          Supervisor: Nousias Alexandros
+          Postgraduate Thesis:
+            - Smart cities: Issues & Challenges towards a human centric paradigm
+              Supervisor: Nousias Alexandros
       - degree: BSc in Informatics
         university: University of Piraeus
         time: 2003 - 2007
