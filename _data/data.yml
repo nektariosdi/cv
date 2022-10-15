@@ -45,29 +45,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Bicycle 
-          link:
-
-        - item: Running
-          link:
-
-        - item: Gym
-          link:
-          
-        - item: Basketball
-          link:
-          
-        - item: Music
-          link:
-          
-        - item: Movies
-          link:
-          
-        - item: Photography
-          link:
-          
-        - item: Escape Rooms
-          link:
+        - item: Bicycle, Running, Gym, Basketball, Football, Music, Movies, Photography, Escape Rooms
 
 career-profile:
     title: Career Profile
