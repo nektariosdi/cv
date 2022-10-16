@@ -1,17 +1,12 @@
 # Useful:
-<a href="https://github.com/nektariosdi/cv/tree/master/_includes"></a>
-<a href="https://github.com/nektariosdi/cv/blob/master/_data/data.yml"></a>
-<a href="https://github.com/nektariosdi/cv/blob/master/_config.yml"></a>
-<a href="https://github.com/nektariosdi/cv/actions"></a>
-
 [data](https://github.com/nektariosdi/cv/blob/master/_data/data.yml)
 [includes](https://github.com/nektariosdi/cv/tree/master/_includes)
 [config](https://github.com/nektariosdi/cv/blob/master/_config.yml)
 [actions](https://github.com/nektariosdi/cv/actions)
 
-<a href="https://jekyll-themes.com">
+<!-- <a href="https://jekyll-themes.com">
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+</a> -->
 
 # Orbit
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
