@@ -1,5 +1,5 @@
 # Useful:
-[data](https://github.com/nektariosdi/cv/blob/master/_data/data.yml)
+[data](https://github.com/nektariosdi/cv/blob/master/_data/data.yml) \n
 [includes](https://github.com/nektariosdi/cv/tree/master/_includes)
 [config](https://github.com/nektariosdi/cv/blob/master/_config.yml)
 [actions](https://github.com/nektariosdi/cv/actions)
