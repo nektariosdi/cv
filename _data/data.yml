@@ -61,12 +61,12 @@ experiences:
         time: Jan 2022 - Present
         company: Cosmos Business Systems
         details: |
-            - Server administration, configuration and troubleshooting on Linux based systems , involution in
+            - Server administration, configuration and troubleshooting on Linux based systems, involution in
             designing of Linux server environments for developers and testers, supporting and documenting procedures
             - Software deployment and maintain of scalable .NET applications using Docker and container 
             orchestration Kubernetes, either on premise or on Cloud platforms (Azure)
-            - Install, configure and maintain Java applications , using Apache, Nginx web services
-            - Implementation and maintain of Database Servers, backup and recovery PostgreSQL, MySQL, MariaDB, MSSQL)
+            - Install, configure and maintain Java applications, using Apache, Nginx web services
+            - Implementation and maintain of Database Servers, backup and recovery (PostgreSQL, MySQL, MariaDB, MSSQL)
       - role: IT Manager
         time: Feb 2021 - Dec 2021
         company: UCert
@@ -74,13 +74,13 @@ experiences:
             - Exam preparation guidance to examination centers (software setup parameterization, web 
             platform usage, remote control, technical issues, etc.), Regular routine check,
             - Implementation and monitoring of the Certification process, Technical Support of Certification
-            Exams resolving po ssible problems, before, after or during the exams,
+            Exams resolving possible problems, before, after or during the exams,
             - Handling company’s web application organizing examination procedure, Servers, Databases and
             Backups management, Exporting reports and useful conclusions through Queries regarding the IT
-            Department, but al so the ISO Department,
+            Department, but also the ISO Department,
             - Responsible for the supply and installation of Hardware and Software of the company, as well as
             maintenance and repair, Management of network infrastructure (internet, server, switches) and telephony,
-            - Monitoring and support of multip le educational platforms,
+            - Monitoring and support of multiple educational platforms,
             - Budget and expenditure management of IT Department,
             - Evaluation and training of new staff
       - role: Database Administrator
@@ -89,7 +89,7 @@ experiences:
         details: |
             - Implementation and maintain Database Servers, backup and recovery
             - Database migrations/scripting (MSSQL, MySQL, MariaDB, PostgreSQL)
-            - Support of .NET applications in Windows, Linux
+            - Support of .NET applications in Microsoft Windows, Linux
       - role: IT Manager
         time: Jan 2015 - Oct 2019
         company: Universal Certification Solutions UNICERT
@@ -191,6 +191,9 @@ skills:
       - name: SQL
         level: 90%
 
+      - name: Kubernetes
+        level: 90%
+        
       - name: Adobe Illustrator
         level: 85%
 
@@ -198,4 +201,4 @@ skills:
         level: 60%
 
 footer: >
-    <i>Last update: 16 Oct 2022</i>
+    <i>Last updated: 16/10/2022</i>
