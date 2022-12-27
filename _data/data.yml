@@ -58,7 +58,12 @@ experiences:
     title: Work experience
     info:
       - role: DevOps Engineer
-        time: Jan 2022 - Present
+        time: Nov 2022 - Present
+        company: Uni Systems
+        details: |
+            - Azure DevOps, OpenShift    
+      - role: DevOps Engineer
+        time: Jan 2022 - Nov 2022
         company: Cosmos Business Systems
         details: |
             - Server administration, configuration and troubleshooting on Linux based systems, involution in
