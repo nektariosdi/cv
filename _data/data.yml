@@ -59,9 +59,11 @@ experiences:
     info:
       - role: DevOps Engineer
         time: Nov 2022 - Present
-        company: Uni Systems
+        company: Uni Systems (Banking & Financial Services Division)
         details: |
-            - Azure DevOps, OpenShift    
+            - Administration of deployment process in Azure DevOps environment (Alpha Bank project)
+            - Monitoring of Red Hat OpenShift Container Platform for .NET microservices using Kubernetes (Alpha Bank project)
+            - Support and collaboration with multiple squads
       - role: DevOps Engineer
         time: Jan 2022 - Nov 2022
         company: Cosmos Business Systems
@@ -206,4 +208,4 @@ skills:
         level: 60%
 
 footer: >
-    <i>Last updated: 16/10/2022</i>
+    <i>Last updated: 19/09/2023</i>
